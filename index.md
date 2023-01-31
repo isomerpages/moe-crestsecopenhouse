@@ -14,8 +14,8 @@ sections:
       url: https://moe-crestsec-staging.netlify.app/
   - infobar:
       title: Welcome to CREST Secondary School!
-      description: 'We understand that finding the right school for your child takes
-        time and you want to learn more." '
+      description: "We understand that finding the right school for your child takes
+        time and you want to learn more. "
       url: /faq/
   - infopic:
       title: OUR ALUMNI
