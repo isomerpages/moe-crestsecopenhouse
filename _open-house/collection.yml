@@ -2,5 +2,6 @@ collections:
   open-house:
     output: true
     order:
+      - Why Crest?.md
       - Programmes.md
       - Useful Links.md
