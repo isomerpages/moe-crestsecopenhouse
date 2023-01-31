@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Crest Secondary E-Open House
+      title: Crest Secondary School E-Open House
       background: /images/banner2.png
       button: Home
       url: https://moe-crestsec-staging.netlify.app/
