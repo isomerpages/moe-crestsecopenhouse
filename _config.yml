@@ -3,7 +3,7 @@ url: https://crestseceopenhouse.wixsite.com
 favicon: /images/csslogo.jpeg
 colors:
   primary-color: "#ebdc3f"
-  secondary-color: "#0d63c2"
+  secondary-color: "#083ab3"
   media-colors:
     - title: media-color-one
       color: "#49759a"
