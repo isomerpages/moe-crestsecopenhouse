@@ -1,6 +1,10 @@
 logo: /images/csslogo1.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+  - title: About Us
+    url: /open-house/about-us
+  - title: Why Crest?
+    url: /open-house/why-crest
+  - title: Programmes
+    url: /open-house/programmes
+  - title: Useful Links
+    url: /open-house/useful-links
