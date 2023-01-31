@@ -8,7 +8,6 @@ notification: ""
 sections:
   - hero:
       title: Crest Secondary E-Open House
-      subtitle: Hero subtitle
       background: /images/banner.png
       button: Home
       url: https://moe-crestsec-staging.netlify.app/
