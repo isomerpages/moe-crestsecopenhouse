@@ -11,6 +11,6 @@ Crest Motto: Empowered To Realise My Dreams
 
 Crest Secondary School is a Specialised School offering a customised curriculum for students in the Normal (Technical) Stream. As a Specialised School, the school operates similar to an independent school.
 
-[Learn More](https://www.crestsec.edu.sg/about-us/about-crest)
+[Learn More](https://moe-crestsec-staging.netlify.app/about-crest/permalink)
 
 Insert school song here.
