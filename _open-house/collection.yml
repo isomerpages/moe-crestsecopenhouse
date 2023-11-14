@@ -1,0 +1,8 @@
+collections:
+  open-house:
+    output: true
+    order:
+      - About Us.md
+      - Why Crest?.md
+      - Programmes.md
+      - Useful Links.md
