@@ -10,7 +10,7 @@ sections:
       title: Crest Secondary School E-Open House
       background: /images/banner2.png
       button: Home
-      url: https://moe-crestsec-staging.netlify.app/
+      url: /
   - infobar:
       title: Welcome to CREST Secondary School!
       description: "We understand that finding the right school for your child takes
